@@ -7,4 +7,4 @@
       3. Flag football
       4. Dancing
       5. Movies
-      6. Learning
+      6. Learning etc
