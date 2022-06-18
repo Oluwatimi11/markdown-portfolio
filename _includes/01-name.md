@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+Samuel Oluwatosin Oniyilo
+
+# Biography of An AI/ML Tech Bro
